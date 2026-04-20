@@ -25,15 +25,15 @@ Version 0.2.0 introduces UUID-based resource identification for NIOS 9.1.0 and W
 
 ## Requirements
 
-- Go (latest stable version recommended i.e. 1.25.1; minimum 1.18)
+- Go >=1.25.1
 - Infoblox NIOS version 9.1.0 or higher
 
 ## Version Compatibility Matrix
 
 | Client Version | Go Version | NIOS Version | WAPI Version |
 |----------------|------------|--------------|--------------|
-| 0.2.0 | >= 1.18 (recommended 1.25.1) | 9.1.0 or higher | v2.14 |
-| 0.1.1, 0.1.0, 0.0.1 | >= 1.18 | 9.0.6 or higher | v2.13.6 |
+| 0.2.0 | >= 1.25.1 | 9.1.0 or higher | v2.14 |
+| 0.1.1, 0.1.0, 0.0.1 | >= 1.24.4 | 9.0.6 or higher | v2.13.6 |
 
 ## Features
 
